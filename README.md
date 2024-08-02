@@ -1,0 +1,2 @@
+#Indian-Cuisines-Menu
+A responsive and user-friendly Indian Cuisines restaurant menu card webpage using HTML, CSS, and JavaScript, incorporating features such as intuitive navigation and dynamic hover effects. Ensured cross-device compatibility and visually appealing design. Focused on performance optimization and seamless browsing across desktops, tablets, and smartphones, delivering a polished, engaging, and efficient platform for showcasing the restaurant's offerings.
